@@ -1,3 +1,6 @@
 [submodule "lib/lcdgfx"]
 	path = lib/lcdgfx
 	url = git@github.com:pyrogenic/lcdgfx.git
+[submodule "lib/ppl"]
+	path = lib/ppl
+	url = git@github.com:pyrogenic/ppl.git
